@@ -1,0 +1,19 @@
+﻿"Phrases"
+{
+	"Plugin Disabled"
+	{
+		"en" "{default}The {green}Reset Score Plugin {default} is {red}disabled{default}."
+	}
+	"Already 0 Score"
+	{
+		"en" "{default}You have already {red}0 {green}Kills {default}and {red}0 {green}Deaths{default}."
+	}
+	"Score Reseted"
+	{
+		"en" "{default}You successfully {green}reseted {default} your {green}Score{default}!"
+	}
+	"Score Reseted2"
+	{
+		"en" "{default}Now you have {red}0 {green}Kills {default}and {red}0 {green}Deaths{default}."
+	}
+}
